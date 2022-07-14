@@ -1,0 +1,5 @@
+If the file exist then it 
+will open the file in write mode and 
+deletes the content of the file.
+If the file does not exist then it 
+will create a file with the given name.

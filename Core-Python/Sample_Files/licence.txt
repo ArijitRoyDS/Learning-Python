@@ -1,0 +1,130 @@
+Users of MATLAB:  (Total of 10000 licenses issued;  Total of 31 licenses in use)
+
+Users of SIMULINK:  (Total of 10000 licenses issued;  Total of 23 licenses in use)
+
+Users of Video_and_Image_Blockset:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Control_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Curve_Fitting_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Signal_Blocks:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Data_Acq_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Database_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Neural_Network_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of RTW_Embedded_Coder:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Fixed_Point_Toolbox:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Fuzzy_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of GPU_Coder:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of GADS_Toolbox:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Cert_Kit_IEC:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Image_Toolbox:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Instr_Control_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Lidar_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MATLAB_Coder:  (Total of 10000 licenses issued;  Total of 2 licenses in use)
+
+Users of MATLAB_Builder_for_Java:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Compiler:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MATLAB_Report_Gen:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MPC_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Navigation_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Optimization_Toolbox:  (Total of 10000 licenses issued;  Total of 3 licenses in use)
+
+Users of Distrib_Computing_Toolbox:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of PDE_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Pred_Maintenance_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of ROS_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Requirements:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Robotics_System_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Robust_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Signal_Toolbox:  (Total of 10000 licenses issued;  Total of 3 licenses in use)
+
+Users of SimEvents:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimDriveline:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Power_System_Blocks:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimHydraulics:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimMechanics:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Simscape:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of Virtual_Reality_Toolbox:  (Total of 10000 licenses issued;  Total of 1 license in use)
+
+Users of SL_Verification_Validation:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Real-Time_Workshop:  (Total of 10000 licenses issued;  Total of 2 licenses in use)
+
+Users of Simulink_Control_Design:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Coverage:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Design_Optim:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Design_Verifier:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Real-Time_Win_Target:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of XPC_Target:  (Total of 10000 licenses issued;  Total of 2 licenses in use)
+
+Users of SIMULINK_Report_Gen:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Test:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Excel_Link:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Stateflow:  (Total of 10000 licenses issued;  Total of 12 licenses in use)
+
+Users of Statistics_Toolbox:  (Total of 10000 licenses issued;  Total of 5 licenses in use)
+
+Users of Symbolic_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Identification_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Vehicle_Dynamics_Blockset:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Vehicle_Network_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MATLAB_Builder_for_dot_Net:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of XPC_Embedded_Option:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Fixed-Point_Blocks:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Embedded_IDE_Link:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Stateflow_Coder:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Target_Support_Package:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Embedded_Target_MPC555:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MATLAB_Distrib_Comp_Engine:  (Total of 64 licenses issued;  Total of 0 licenses in use)
+

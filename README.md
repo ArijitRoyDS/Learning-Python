@@ -25,7 +25,7 @@ Core Python:
 
       Python Loops
           Session 06	  Core Python: Loops - For, While
-          Session 06_1       Loop Assignment
+          Session 06_1        Loop Assignment
 
       Python List
           Session 07	  Core Python: List

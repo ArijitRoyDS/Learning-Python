@@ -1,5 +1,5 @@
 # Learning-Python
-This repository contains a detailed walkthrough of Core-Python and some Popular Libraries that can help a beginner to learn Python easily and quickly.
+This repository contains a detailed walkthrough of Core-Python and some Popular Libraries that can help a beginner to learn Python and it's applications, especially in the field of Data Science and Automation easily and quickly.
 
 Core Python:
 

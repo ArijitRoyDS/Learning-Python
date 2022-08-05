@@ -64,3 +64,5 @@ Python Modules:
       7) BeautifulSoup, Requests
       
       8) Selenium
+      
+      9) Seaborn

@@ -60,3 +60,5 @@ Python Modules:
       5) Openpyxl
 
       6) os, shutil, time, datetime, pytz, socket, getpass
+      
+      7) BeautifulSoup

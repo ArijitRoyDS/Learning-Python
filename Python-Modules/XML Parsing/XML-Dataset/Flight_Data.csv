@@ -1,0 +1,17 @@
+,Total Miles,Trip Duration,Departure Date Time,Departure Time Offset,Departure Airport Code,Departure Airport Name,Arrival Date Time,Arrival Time Offset,Arrival Airport Code,Arrival Airport Name,Stops,Flight Legs,Flight Number,Airline Code,Airline Name
+0,5590,PT15H50M,2022-10-24T01:20:00,+0530,BLR,Kempegowda International Airport,2022-10-24T13:40:00,+0200,GOT,Goteborg,Connect,3,2289,KL,KLM
+1,5590,PT19H55M,2022-10-24T01:20:00,+0530,BLR,Kempegowda International Airport,2022-10-24T17:45:00,+0200,GOT,Goteborg,Connect,3,2289,KL,KLM
+2,5152,PT14H30M,2022-10-24T03:05:00,+0530,BLR,Kempegowda International Airport,2022-10-24T14:05:00,+0200,GOT,Goteborg,Connect,2,755,LH,Lufthansa
+3,5611,PT16H05M,2022-10-24T03:05:00,+0530,BLR,Kempegowda International Airport,2022-10-24T15:40:00,+0200,GOT,Goteborg,Connect,3,3223,SK,SAS
+4,5611,PT17H45M,2022-10-24T03:05:00,+0530,BLR,Kempegowda International Airport,2022-10-24T17:20:00,+0200,GOT,Goteborg,Connect,3,3223,SK,SAS
+5,5434,PT18H30M,2022-10-24T03:05:00,+0530,BLR,Kempegowda International Airport,2022-10-24T18:05:00,+0200,GOT,Goteborg,Connect,3,755,LH,Lufthansa
+6,5611,PT19H20M,2022-10-24T03:05:00,+0530,BLR,Kempegowda International Airport,2022-10-24T18:55:00,+0200,GOT,Goteborg,Connect,3,3223,SK,SAS
+7,5115,PT16H35M,2022-10-24T03:55:00,+0530,BLR,Kempegowda International Airport,2022-10-24T17:00:00,+0200,GOT,Goteborg,Connect,3,573,QR,Qatar Airways
+8,5115,PT19H35M,2022-10-24T03:55:00,+0530,BLR,Kempegowda International Airport,2022-10-24T20:00:00,+0200,GOT,Goteborg,Connect,3,573,QR,Qatar Airways
+9,5115,PT16H00M,2022-10-24T04:30:00,+0530,BLR,Kempegowda International Airport,2022-10-24T17:00:00,+0200,GOT,Goteborg,Connect,3,4787,QR,Qatar Airways
+10,5115,PT19H00M,2022-10-24T04:30:00,+0530,BLR,Kempegowda International Airport,2022-10-24T20:00:00,+0200,GOT,Goteborg,Connect,3,4787,QR,Qatar Airways
+11,5670,PT15H10M,2022-10-24T06:55:00,+0530,BLR,Kempegowda International Airport,2022-10-24T18:35:00,+0200,GOT,Goteborg,Connect,2,118,BA,British Airways
+12,5670,PT16H30M,2022-10-24T06:55:00,+0530,BLR,Kempegowda International Airport,2022-10-24T19:55:00,+0200,GOT,Goteborg,Connect,2,118,BA,British Airways
+13,5915,PT19H55M,2022-10-24T19:40:00,+0530,BLR,Kempegowda International Airport,2022-10-25T12:05:00,+0200,GOT,Goteborg,Connect,3,5840,BA,British Airways
+14,5266,PT16H20M,2022-10-24T20:50:00,+0530,BLR,Kempegowda International Airport,2022-10-25T09:40:00,+0200,GOT,Goteborg,Connect,3,237,EY,Etihad Airways
+15,5497,PT19H05M,2022-10-24T22:05:00,+0530,BLR,Kempegowda International Airport,2022-10-25T13:40:00,+0200,GOT,Goteborg,Connect,3,3647,KL,KLM
